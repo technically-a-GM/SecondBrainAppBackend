@@ -1,4 +1,4 @@
-**This is backened for this project frontened repo is different take frontened code from here 
+**This is backened for this project frontened repo is different take frontened code from here https://github.com/technically-a-GM/SecondBrainFrontened.git
 
 📌 Second Brain App
 
