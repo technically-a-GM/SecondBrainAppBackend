@@ -1,3 +1,5 @@
+**This is backened for this project frontened repo is different take frontened code from here 
+
 📌 Second Brain App
 
 A Second Brain web app that helps you store, organize, and retrieve knowledge from notes and social platforms like YouTube and Twitter/X using embeddings-based semantic search — just like your personal AI-powered memory.
