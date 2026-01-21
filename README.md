@@ -39,27 +39,22 @@ Build Tooling: Vite / CRA (based on what you used)
 
 <img width="1919" height="846" alt="image" src="https://github.com/user-attachments/assets/650a0e0a-8d76-4a84-b0cd-164e3be23ff4" />
 
-📂 Project Structure
-src/
- ├── components/       # Reusable UI components
- ├── pages/            # App pages (Home, Notes, Search, etc.)
- ├── hooks/            # Custom React hooks
- ├── utils/            # Helper functions
- ├── services/         # API calls / embedding functions
- ├── types/            # TypeScript types/interfaces
- └── App.tsx
+
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone "https://github.com/technically-a-GM/SecondBrainAppBackend.git"
+
 
 2️⃣ Install dependencies
 npm install
 
 3️⃣ Run the app
-npm run dev
+npm run bs
 
+Now go to frontened repo and do the same 
+
+run frontened through-  npm run dev 
 
 App will run on:
 
